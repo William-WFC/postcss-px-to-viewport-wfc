@@ -7,7 +7,7 @@ A plugin for [PostCSS](https://github.com/postcss/postcss) that generates viewpo
 
 ## Demo
 
-If your project involves a fixed width, this script will help to convert pixels into viewport units.
+If your project involves a fixed width, this script will help to convert pixels into viewport units.  
 Ps: This version supports the include configuration
 
 ### Input
